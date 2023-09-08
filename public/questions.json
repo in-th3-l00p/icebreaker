@@ -1,0 +1,150 @@
+{
+  "ice_breaking_topics": [
+    {
+      "topic": "Travel Experiences",
+      "tags": ["adventurous", "curious", "outgoing"]
+    },
+    {
+      "topic": "Favorite Books",
+      "tags": ["intellectual", "imaginative", "introverted"]
+    },
+    {
+      "topic": "Hobbies and Interests",
+      "tags": ["creative", "passionate", "focused"]
+    },
+    {
+      "topic": "Career Ambitions",
+      "tags": ["ambitious", "driven", "goal-oriented"]
+    },
+    {
+      "topic": "Family Traditions",
+      "tags": ["family-oriented", "traditional", "caring"]
+    },
+    {
+      "topic": "Music Preferences",
+      "tags": ["artistic", "emotional", "expressive"]
+    },
+    {
+      "topic": "Outdoor Activities",
+      "tags": ["active", "nature lover", "adventurous"]
+    },
+    {
+      "topic": "Favorite Movies",
+      "tags": ["cinema enthusiast", "relaxing", "introspective"]
+    },
+    {
+      "topic": "Dream Destinations",
+      "tags": ["adventurous", "wanderlust", "explorative"]
+    },
+    {
+      "topic": "Cooking and Cuisine",
+      "tags": ["foodie", "creative", "enthusiastic"]
+    },
+    {
+      "topic": "Life Goals and Aspirations",
+      "tags": ["ambitious", "goal-driven", "self-motivated"]
+    },
+    {
+      "topic": "Pets and Companions",
+      "tags": ["compassionate", "animal lover", "caring"]
+    },
+    {
+      "topic": "Technology Interests",
+      "tags": ["tech-savvy", "innovative", "problem solver"]
+    },
+    {
+      "topic": "Fitness and Health",
+      "tags": ["health-conscious", "active", "disciplined"]
+    },
+    {
+      "topic": "Cultural Experiences",
+      "tags": ["culturally curious", "open-minded", "adventurous"]
+    },
+    {
+      "topic": "Volunteer Work",
+      "tags": ["compassionate", "community-oriented", "empathetic"]
+    },
+    {
+      "topic": "Favorite Art Forms",
+      "tags": ["creative", "artistic", "imaginative"]
+    },
+    {
+      "topic": "Future Travel Plans",
+      "tags": ["wanderlust", "planner", "explorative"]
+    }
+  ],
+  "personality_questions": [
+    {
+      "question": "Do you prefer spontaneous travel or well-planned trips?",
+      "tags": ["adventurous", "planner"]
+    },
+    {
+      "question": "What type of books do you enjoy reading the most, and why?",
+      "tags": ["intellectual", "imaginative"]
+    },
+    {
+      "question": "What's a hobby or interest you're truly passionate about?",
+      "tags": ["passionate", "creative"]
+    },
+    {
+      "question": "What motivates you in your career or studies?",
+      "tags": ["ambitious", "goal-oriented"]
+    },
+    {
+      "question": "What's a cherished family tradition from your childhood?",
+      "tags": ["family-oriented", "traditional"]
+    },
+    {
+      "question": "Can you describe a song or music genre that resonates with you?",
+      "tags": ["artistic", "emotional", "expressive"]
+    },
+    {
+      "question": "Do you prefer indoor or outdoor activities during your free time?",
+      "tags": ["active", "nature lover"]
+    },
+    {
+      "question": "What's a movie that left a lasting impression on you, and why?",
+      "tags": ["cinema enthusiast", "introspective"]
+    },
+    {
+      "question": "If you could visit any destination in the world, where would you go?",
+      "tags": ["adventurous", "wanderlust"]
+    },
+    {
+      "question": "Are you a fan of cooking or trying different cuisines?",
+      "tags": ["foodie", "creative"]
+    },
+    {
+      "question": "What's one significant life goal or aspiration you're working toward?",
+      "tags": ["ambitious", "goal-driven"]
+    },
+    {
+      "question": "Do you have any beloved pets or animal companions?",
+      "tags": ["compassionate", "animal lover"]
+    },
+    {
+      "question": "Are you interested in technology, and if so, in what way?",
+      "tags": ["tech-savvy", "innovative"]
+    },
+    {
+      "question": "How do you stay active and maintain your health?",
+      "tags": ["health-conscious", "disciplined"]
+    },
+    {
+      "question": "Have you had any memorable cultural experiences?",
+      "tags": ["culturally curious", "open-minded"]
+    },
+    {
+      "question": "Have you ever been involved in volunteer work or community service?",
+      "tags": ["compassionate", "community-oriented"]
+    },
+    {
+      "question": "What's your favorite art form, and does it inspire you?",
+      "tags": ["creative", "artistic", "imaginative"]
+    },
+    {
+      "question": "Do you have any upcoming travel plans or destinations in mind?",
+      "tags": ["wanderlust", "planner", "explorative"]
+    }
+  ]
+}
